@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação 👨🏻‍💻`**
 
-Sou natural da cidade de São Paulo - Capital, tenho 30 anos, me formei em 2019 em Arquitetura e Urbanismo pela Universidade de São Paulo (UNICID). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. Tenho muito foco em meus objetivos e a técnologia virou uma paixão.
+Sou natural da cidade de São Paulo - Capital, tenho 30 anos, me formei em 2019 em Arquitetura e Urbanismo pela Universidade Cidade de São Paulo (UNICID). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. Tenho muito foco em meus objetivos e a técnologia virou uma paixão.
 
 
 <a href="https://www.instagram.com/viniibrandao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
